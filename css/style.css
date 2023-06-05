@@ -1,0 +1,20 @@
+.centro {
+  font-size: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh; /* Altere para 100vh para ocupar a altura total da página */
+  margin: 0; /* Remova as margens laterais */
+  border-width: 100px;
+  background-image: url("img/alfabeto.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  color: #0000FF;
+}
+
